@@ -1,0 +1,3 @@
+[submodule "deep-high-resolution-net.pytorch"]
+	path = deep-high-resolution-net.pytorch
+	url = https://github.com/leoxiaobin/deep-high-resolution-net.pytorch.git
