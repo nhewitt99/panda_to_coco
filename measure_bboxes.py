@@ -1,3 +1,11 @@
+'''
+Generate some basic quantitative measures about the character of a dataset:
+how often people appear in an image, how large they are in that image.
+Works on any COCO-style dataset.
+
+Usage: python measure_bboxes.py {your_dataset_folder}/annotations/person_keypoints_{train or val}.json
+'''
+
 import json
 import plotille
 import sys

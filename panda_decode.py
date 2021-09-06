@@ -323,7 +323,7 @@ def worker_process(cfg, input, images, annos):
 #            break
 
         pbar.update()
-        break
+#        break
 
 #        cv2.imwrite('out.jpg', image_bgr)
     pbar.close()
